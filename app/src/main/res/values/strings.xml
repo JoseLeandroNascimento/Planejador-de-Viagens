@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Planejador de Viagens</string>
+    <string name="message_home">Calcule o custo estimado de sua próxima viagem!</string>
+    <string name="btn_label_comecar">Começar</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="btn_proximo">Próximo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_distancia_percorrida">Distância Percorrida</string>
 </resources>
